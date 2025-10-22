@@ -4,7 +4,7 @@ package 排序;
  * 选择排序
  * 思路：就是在给定的一组数据中，选定一个数作为最小值(一般都是从下表0开始的)，从0开始一直到n-1进行逐行比较直到选择出最小的值然后放到指定的位置
  * 每循环一次则固定一位最小值在左侧，则剩下比较次数为 n-2
- *
+ * 第一天
  */
 public class XuanZheSort {
     public static void main(String[] args) {
