@@ -39,4 +39,6 @@ public class ChaRuSort {
         }
         return arr;
     }
+
+    // TODO 优化点：其实内层不用一直遍历到最左侧，其实遍历到左侧值开始小于右侧值时就可以停止了。
 }
