@@ -4,6 +4,7 @@ package 排序;
  * 冒泡排序算法
  * 思想：左右两两比较交换，选择从小到大还是从大到小排序
  * 从小到大：两两交换，大的变到左边，依此遍历，直到最后，此时每遍历一次则确定一个最大值放在最右侧。
+ * 第二天
  */
 public class MaoPaoSort {
     public static void main(String[] args) {
